@@ -1,6 +1,4 @@
-package com.jasonzii.domain;
-
-import static javafx.scene.input.KeyCode.T;
+package com.jasonzii.girl.domain;
 
 /**
  * @Author : jasonzii @Author

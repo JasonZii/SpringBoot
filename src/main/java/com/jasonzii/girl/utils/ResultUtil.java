@@ -1,8 +1,6 @@
-package com.jasonzii.utils;
+package com.jasonzii.girl.utils;
 
-import com.jasonzii.domain.Result;
-
-import javax.persistence.criteria.CriteriaBuilder;
+import com.jasonzii.girl.domain.Result;
 
 /**
  * @Author : jasonzii @Author

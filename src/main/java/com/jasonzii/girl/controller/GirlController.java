@@ -1,11 +1,10 @@
-package com.jasonzii.controller;
+package com.jasonzii.girl.controller;
 
-import com.jasonzii.aspect.HttpAspect;
-import com.jasonzii.domain.Girl;
-import com.jasonzii.domain.Result;
-import com.jasonzii.repository.GirlRepository;
-import com.jasonzii.service.GirlService;
-import com.jasonzii.utils.ResultUtil;
+import com.jasonzii.girl.domain.Girl;
+import com.jasonzii.girl.domain.Result;
+import com.jasonzii.girl.repository.GirlRepository;
+import com.jasonzii.girl.service.GirlService;
+import com.jasonzii.girl.utils.ResultUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
-package com.jasonzii.controller;
+package com.jasonzii.girl.controller;
 
-import com.jasonzii.properties.GirlProperties;
+import com.jasonzii.girl.properties.GirlProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

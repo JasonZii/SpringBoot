@@ -1,14 +1,12 @@
-package com.jasonzii.service;
+package com.jasonzii.girl.service;
 
-import com.jasonzii.domain.Girl;
-import com.jasonzii.enums.ResultEnum;
-import com.jasonzii.exception.GirlException;
-import com.jasonzii.repository.GirlRepository;
+import com.jasonzii.girl.domain.Girl;
+import com.jasonzii.girl.enums.ResultEnum;
+import com.jasonzii.girl.exception.GirlException;
+import com.jasonzii.girl.repository.GirlRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
-import java.util.Optional;
 
 /**
  * @Author : jasonzii @Author

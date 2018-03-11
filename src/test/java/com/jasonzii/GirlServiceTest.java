@@ -1,7 +1,7 @@
 package com.jasonzii;
 
-import com.jasonzii.domain.Girl;
-import com.jasonzii.service.GirlService;
+import com.jasonzii.girl.domain.Girl;
+import com.jasonzii.girl.service.GirlService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

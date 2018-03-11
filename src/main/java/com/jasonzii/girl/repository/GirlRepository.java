@@ -1,6 +1,6 @@
-package com.jasonzii.repository;
+package com.jasonzii.girl.repository;
 
-import com.jasonzii.domain.Girl;
+import com.jasonzii.girl.domain.Girl;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

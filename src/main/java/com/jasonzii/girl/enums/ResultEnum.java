@@ -1,4 +1,4 @@
-package com.jasonzii.enums;
+package com.jasonzii.girl.enums;
 
 /**
  * @Author : jasonzii @Author

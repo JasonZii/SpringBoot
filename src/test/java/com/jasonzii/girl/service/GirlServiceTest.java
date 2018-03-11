@@ -1,8 +1,6 @@
-package com.jasonzii.service;
+package com.jasonzii.girl.service;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @Author : jasonzii @Author

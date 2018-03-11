@@ -1,6 +1,6 @@
-package com.jasonzii.exception;
+package com.jasonzii.girl.exception;
 
-import com.jasonzii.enums.ResultEnum;
+import com.jasonzii.girl.enums.ResultEnum;
 
 /**
  * @Author : jasonzii @Author

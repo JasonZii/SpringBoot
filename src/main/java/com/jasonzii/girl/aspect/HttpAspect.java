@@ -1,6 +1,5 @@
-package com.jasonzii.aspect;
+package com.jasonzii.girl.aspect;
 
-import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -23,7 +22,7 @@ public class HttpAspect {
 
 
     //切哪个点
-    @Pointcut("execution(public * com.jasonzii.controller.GirlController.*(..))")
+    @Pointcut("execution(public * com.jasonzii.girl.controller.GirlController.*(..))")
     public void log(){
     }
 

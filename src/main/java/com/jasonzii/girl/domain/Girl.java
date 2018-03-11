@@ -1,4 +1,4 @@
-package com.jasonzii.domain;
+package com.jasonzii.girl.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
