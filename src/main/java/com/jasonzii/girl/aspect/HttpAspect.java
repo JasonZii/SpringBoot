@@ -1,3 +1,4 @@
+/*
 package com.jasonzii.girl.aspect;
 
 import org.aspectj.lang.annotation.*;
@@ -7,13 +8,15 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 
-import javax.servlet.http.HttpServletRequest;
+//import javax.servlet.http.HttpServletRequest;
 
+*/
 /**
  * @Author : jasonzii @Author
  * @Description :
  * @CreateDate : 18.3.9  19:12
- */
+ *//*
+
 @Aspect
 @Component
 public class HttpAspect {
@@ -57,3 +60,4 @@ public class HttpAspect {
         logger.info("response={}",object.toString());
     }
 }
+*/

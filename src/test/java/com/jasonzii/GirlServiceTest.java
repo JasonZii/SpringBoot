@@ -26,5 +26,6 @@ public class GirlServiceTest {
         Girl girl = girlService.findOne(1);
         //断言相同，两个参数都是object，拿第一个参数和第二个比较是否相同
         Assert.assertEquals(new Integer(18),girl.getAge());
+
     }
 }
